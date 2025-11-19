@@ -1,7 +1,7 @@
 
 # Chladni plate
 
-See live demo [here](https://luciopaiva.com/chladni).
+See live demo [here](https://aibolem.github.io/c-ho-ladn-a-i-ck/).
 
 ![](screenshot.png)
 
